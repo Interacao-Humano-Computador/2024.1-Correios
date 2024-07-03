@@ -229,6 +229,19 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
     <a href="https://youtu.be/HOYQqycLLjc"> Link para o vídeo </a>
 </p>
 
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 2 - Gravação da Avaliação do Protótipo Loja Online.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vachq9pNeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/Vachq9pNeBQ"> Link para o vídeo </a>
+</p>
+
+</center>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.

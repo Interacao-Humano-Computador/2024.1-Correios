@@ -97,7 +97,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Bibliografia
 
